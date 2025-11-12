@@ -118,13 +118,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-MIT © Your Name
+MIT © Dementa Skills.
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/YOUR_USERNAME/dementa-ui)
+- [GitHub Repository](https://github.com/vicxtunespro/dementa-ui)
 - [NPM Package](https://www.npmjs.com/package/dementa-ui)
-- [Report Issues](https://github.com/YOUR_USERNAME/dementa-ui/issues)
+- [Report Issues](https://github.com/vicxtunespro/dementa-ui/issues)
 
 ## 💖 Support
 
